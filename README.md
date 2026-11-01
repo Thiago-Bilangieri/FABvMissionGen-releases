@@ -19,7 +19,7 @@ Aplicativo para Windows que escreve **missões da FAB Virtual** com inteligênci
 2. Dê dois cliques no instalador. Ele instala sozinho (sem pedir administrador) e cria o atalho no Menu Iniciar e na área de trabalho.
 3. Abra o **FABv Gerador de Missões** pelo atalho.
 
-> **Atualizações automáticas:** ao abrir, o app confere se há versão nova. Se houver, ele pergunta se quer atualizar, baixa e reinicia sozinho. Para desinstalar, use *Configurações → Aplicativos*.
+> **Atualizações automáticas:** ao abrir, uma tela com o ícone do app confere se há versão nova. Se houver, ela baixa e instala sozinha (com barra de progresso) e depois abre o aplicativo já atualizado. Para desinstalar, use *Configurações → Aplicativos*.
 >
 > Prefere não instalar? Baixe o `FABvMissionGen-win-Portable.zip`, extraia e execute `FABv.MissionGen.exe` (essa versão não se atualiza sozinha).
 
